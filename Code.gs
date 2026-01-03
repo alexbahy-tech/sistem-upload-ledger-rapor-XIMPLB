@@ -2,9 +2,9 @@
 // 1. KONFIGURASI SISTEM
 // =======================================================
 const CONFIG = {
-  SHEET_ID: "10ylzUIQu6rxUQjuLAzGmAr5HOvqCn8x66GaGB7JTPt0", 
+  SHEET_ID: "1S9Ed1Ad1bmBxEUacbb4BN0Ipe2Qw-b3X2xQ5YUObX4I", 
   SHEET_NAME: "Sheet1",
-  PARENT_FOLDER_ID: "1vekhO_OnUJZK3vreuoIbodx6JRMLRBMr",
+  PARENT_FOLDER_ID: "1lr5IvQGrflG5m10vbRagl-9vDlr7xRz7",
   LEDGER_FOLDER_ID: "1v8375dOSCgA3rJcFia-E_FLNkAhZm32F"
 };
 
